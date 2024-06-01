@@ -73,5 +73,3 @@ Project Link: [https://github.com/Shubham-Singla259/Book-Recommendation-System-u
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 ---
-
-This README is designed to be both informative and appealing, using badges for social proof and clear, concise language to describe the system's features and setup instructions. Adjust as necessary to fit more specific details or additional sections relevant to the project!
